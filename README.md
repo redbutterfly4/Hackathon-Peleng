@@ -27,6 +27,6 @@ To solve the issue my team came up with the idea to view IR pictures as a weight
 Here is the example with the second picture!
 
 <div style="text-align: left;">
-  <img src="./S31image70.jpeg" title="Original image" width="800">
+  <img src="./S31Timage70.jpeg" title="Original image" width="800">
   <p><em>Figure 1: Infrared image.</em></p>
 </div>
