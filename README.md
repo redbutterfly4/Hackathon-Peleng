@@ -33,5 +33,9 @@ Here is the example with the second picture!
 
 <div style="text-align: left;">
   <img src="./image.png" title="Original image" width="800">
-  <p><em>Figure 1: Modified image.</em></p>
+  <p><em>Figure 2: Modified image.</em></p>
 </div>
+
+### Training dual Transformer
+
+The model, proposed to solve the object detection task, can be found [here](https://huggingface.co/google/owlv2-base-patch16-ensemble).
