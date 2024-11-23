@@ -1,4 +1,4 @@
-# The Technical Task
+## The Technical Task
 
 Develop a system for automatically detecting and tracking a given object in a video, including determining its location (x, y, z – 3D coordinates).
 
