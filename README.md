@@ -16,6 +16,7 @@ The training dataset consists of RGB and infrared videos from three cameras. The
 For example, take a look at the following pictures:
 
 <img src="./S13image17.jpeg" alt="Sample Image" width="800"> <img src="./S31image70.jpeg" alt="Sample Image" width="800">
+
 In the second picture, you cannot detect the object because it is hidden in the fog!
 
 ### Combining RGB with IR
@@ -24,11 +25,19 @@ To address this issue, my team proposed viewing infrared images as weighted heat
 
 Here is an example with the second picture:
 
-<div style="text-align: left;"> <img src="./S31Timage70.jpeg" title="Infrared Image" width="800"> <p><em>Figure 1: Infrared image.</em></p> </div> <div style="text-align: left;"> <img src="./image.png" title="Modified Image" width="800"> <p><em>Figure 2: Modified image.</em></p> </div>
+<div style="text-align: left;">
+  <img src="./S31Timage70.jpeg" title="Original image" width="800">
+  <p><em>Figure 1: Infrared image.</em></p>
+</div>
+
+<div style="text-align: left;">
+  <img src="./image.png" title="Original image" width="800">
+  <p><em>Figure 2: Modified image.</em></p>
+</div>
 
 ### Training
 
-The proposed model for solving the object detection task can be found here. It is a CLIP-like dual-encoder Transformer. We chose this model because it supports zero-shot object detection, saving a significant amount of time and computational resources, as we did not perform any fine-tuning.
+The proposed model for solving the object detection task can be found [here](https://huggingface.co/google/owlv2-base-patch16-ensemble). It is a CLIP-like dual-encoder Transformer. We chose this model because it supports zero-shot object detection, saving a significant amount of time and computational resources, as we did not perform any fine-tuning.
 
 Here are the results:
 
