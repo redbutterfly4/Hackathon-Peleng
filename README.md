@@ -20,3 +20,11 @@ For example, look at the pictures!
 
 Actually, you can not detect an object in the second picture, because it hides in the fog!
 
+### Combining RGB with IR
+
+To solve the issue my team came up with the idea to view IR pictures as a weighted heatmap for matching RGB pictures. Generally speaking, we convert infrared intensity values to colors, with higher values often represented by "hot" colors (e.g., red, yellow) and lower values by "cold" colors (e.g., blue) and combine those "new" pixels with RGB pixels.
+
+Here is the example!
+
+
+
