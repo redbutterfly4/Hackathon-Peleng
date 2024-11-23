@@ -42,3 +42,5 @@ The model, proposed to solve the object detection task, can be found [here](http
 
 Here are results!
 
+<video src="./test.mp4" width="800">
+
