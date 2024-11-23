@@ -30,3 +30,8 @@ Here is the example with the second picture!
   <img src="./S31Timage70.jpeg" title="Original image" width="800">
   <p><em>Figure 1: Infrared image.</em></p>
 </div>
+
+<div style="text-align: left;">
+  <img src="./image.jpeg" title="Original image" width="800">
+  <p><em>Figure 1: Modified image.</em></p>
+</div>
