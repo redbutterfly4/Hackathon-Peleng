@@ -38,4 +38,7 @@ Here is the example with the second picture!
 
 ### Training
 
-The model, proposed to solve the object detection task, can be found [here](https://huggingface.co/google/owlv2-base-patch16-ensemble). Generally speaking, it is a CLIP-like dual encoder Transformer. The model was taken due to the fact that it can be used for zero-shot object detection. It saved us a huge amount of time and computation, cause we did not do any fine-tuning whatsoever. 
+The model, proposed to solve the object detection task, can be found [here](https://huggingface.co/google/owlv2-base-patch16-ensemble). Generally speaking, it is a CLIP-like dual encoder Transformer. The model was taken due to the fact that it can be used for zero-shot object detection. It saved us a huge amount of time and computation, cause we did not do any fine-tuning whatsoever.
+
+Here are results!
+
