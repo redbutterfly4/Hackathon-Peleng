@@ -24,7 +24,7 @@ Actually, you can not detect an object in the second picture, because it hides i
 
 To solve the issue my team came up with the idea to view IR pictures as a weighted heatmap for matching RGB pictures. Generally speaking, we convert infrared intensity values to colors, with higher values often represented by "hot" colors (e.g., red, yellow) and lower values by "cold" colors (e.g., blue) and combine those "new" pixels with RGB pixels.
 
-Here is the example!
+Here is the example with the second picture!
 
-
+<img src="./S31image70.jpeg" title="Original image" width="800">
 
