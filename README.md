@@ -14,5 +14,5 @@ The problem can be divided into two subtasks:
 Train dataset consists of RGB and Infrared videos of 3 cameras with object moving in the same directions, except that cameras are placed in different locations. so that the object can dissapear from one or multiple cameras. Also there are different noise objects that make it hard to detect a target object in visual spectrum.
 
 For example, look at the pictures!
-<img src=![S13image17](https://github.com/user-attachments/assets/048091f7-61be-42ef-b30f-0e504021ba26), alt="Sample Image" width="300">
+<img src="https://github.com/user-attachments/assets/048091f7-61be-42ef-b30f-0e504021ba26", alt="Sample Image" width="300">
 
