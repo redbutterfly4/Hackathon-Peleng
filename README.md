@@ -16,4 +16,5 @@ Train dataset consists of RGB and Infrared videos of 3 cameras with object movin
 For example, look at the pictures!
 
 <img src="./S13image17.jpeg" alt="Sample Image" width="800">
+<img src="./S31image70.jpeg" alt="Sample Image" width="800">
 
