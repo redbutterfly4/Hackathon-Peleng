@@ -32,6 +32,6 @@ Here is the example with the second picture!
 </div>
 
 <div style="text-align: left;">
-  <img src="./image.jpeg" title="Original image" width="800">
+  <img src="./image.png" title="Original image" width="800">
   <p><em>Figure 1: Modified image.</em></p>
 </div>
