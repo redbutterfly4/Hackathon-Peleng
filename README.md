@@ -26,9 +26,7 @@ To solve the issue my team came up with the idea to view IR pictures as a weight
 
 Here is the example with the second picture!
 
-<img src="./S31image70.jpeg" title="Original image" width="800">
-
-<div style="text-align: center;">
+<div style="text-align: right;">
   <img src="./S31image70.jpeg" title="Original image" width="800">
   <p><em>Figure 1: Original image.</em></p>
 </div>
